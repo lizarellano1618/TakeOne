@@ -1,7 +1,10 @@
 ---
 title: TakeOne2
 ---
-## The index page
+## Main Categories
 
-This is about movies that I've watched that may or may not be so popular.
-
+-[[action/index|action]]
+-[[childhood-movies/index|childhood-movies]]
+-[[comedy/index|comedy]]
+-[[drama/index|drama]]
+-[[horror/index|horror]]
