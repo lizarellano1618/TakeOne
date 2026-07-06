@@ -3,6 +3,8 @@ title: 7-lucky-ninja-kids
 ---
 # 7 Lucky Ninja Kids# 7 Lucky Ninja Kids (1986) 
 
+![7 Lucky Ninja Kids Movie Poster](7luckyninjakids.png)
+
 ## Overview 
 
 Also known as *Lucky Seven*, this Taiwanese action-comedy is a wild ride. The plot kicks off during a summer vacation when a feisty young girl named Little Chilli gathers her childhood friends to welcome their pal Rocky home from the United States. While enjoying a celebration meal at a high end restaurant, Chilli accidentally witnesses a dangerous robbery and murder.  

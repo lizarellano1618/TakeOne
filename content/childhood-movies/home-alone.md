@@ -3,6 +3,8 @@ title: home-alone
 ---
 # Home Alone (1990) 
 
+![Home Alone Movie Poster](homealone.png)
+
 ## Overview 
 
 Written by John Hughes and directed by Chris Columbus, *Home Alone* is one of the highest-grossing holiday films of all time. The narrative centers on eight year old Kevin McCallister, who is accidentally left behind when his massive family flies to Paris for Christmas vacation. While initially enjoying his absolute freedom, Kevin quickly discovers his home is being targeted by the "Wet Bandits," a pair of notorious neighborhood burglars. 

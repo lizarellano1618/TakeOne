@@ -3,6 +3,8 @@ title: the-sandlot
 ---
 # The Sandlot (1993) 
 
+![The Sandlot Movie Poster](thesandlot.png)
+
 ## Overview 
 
 Set in the nostalgic summer of 1962, *The Sandlot* is a coming-of-age comedy that perfectly captures the magic of childhood. The story is narrated by Scotty Smalls, a nerdy new kid in town who desperately wants to fit in but doesn't even know how to throw a baseball. He is taken under the wing of Benny Rodriguez, the best player in the neighborhood. 

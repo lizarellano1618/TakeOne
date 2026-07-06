@@ -3,6 +3,8 @@ title: the-mighty-ducks
 ---
 # The Mighty Ducks (1992) 
 
+![The Mighty Ducks Movie Poster](themightyducks.png)
+
 ## Overview 
 
 *The Mighty Ducks* is a classic sports comedy-drama that launched an entire generation of real-world youth hockey enthusiasts. The story stars Emilio Estevez as Gordon Bombay, a hotshot, arrogant lawyer who is sentenced to community service coaching a ragtag, winless youth hockey team in Minnesota.  
