@@ -1,7 +1,7 @@
 ---
 title: 7-lucky-ninja-kids
 ---
-# 7 Lucky Ninja Kids (1986) 
+# 7 Lucky Ninja Kids (1986)
 
 ![7 Lucky Ninja Kids Movie Poster](7luckyninjakids.png)
 
