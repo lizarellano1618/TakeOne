@@ -3,6 +3,8 @@ title: 3-ninjas
 ---
 # 3 Ninjas (1992) 
 
+![3 Ninjas movie poster)([[3ninjas.png]])]
+
 ## Overview 
 
 Directed by Jon Turteltaub, *3 Ninjas* is a definitive staple of 90s martial arts family cinema. The story follows three brothers Rocky, Colt, and Tum-Tum who spend their summers learning the art of Ninjutsu from their wise grandfather, Mori Tanaka. Things take a dangerous turn when their FBI agent father targets a high profile criminal who happens to be Mori’s former partner.  
