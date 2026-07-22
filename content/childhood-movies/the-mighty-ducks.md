@@ -11,7 +11,7 @@ title: the-mighty-ducks
 
 ## From Underdogs to Champions 
 
-The team begins as a complete disaster, lacking basic skating skills and functional equipment. However, through Bombay's guidance, they learn the value of teamwork and create the famous "Flying V" formation. The team's tight bond and diverse personalities closely mirror the neighborhood friendships seen in [[the-sandlot]]. 
+The team begins as a complete disaster, lacking basic skating skills and functional equipment. However, through Bombay's guidance, they learn the value of teamwork and create the famous "Flying V" formation. The team's tight bond and diverse personalities closely mirror the neighborhood friendships seen in [[the-sandlot|The Sandlot]]. 
 
 ### Essential Team Members 
 
@@ -23,4 +23,4 @@ The team begins as a complete disaster, lacking basic skating skills and functio
 
 > "Ducks fly together!" – The Mighty Ducks
 
-Just as the characters in [[7-lucky-ninja-kids]] use martial arts to conquer adult villains, the Ducks use grit and athletic execution to defeat their corporate, elitist rivals.
+Just as the characters in [[7-lucky-ninja-kids|7 Lucky Ninja Kids]] use martial arts to conquer adult villains, the Ducks use grit and athletic execution to defeat their corporate, elitist rivals.

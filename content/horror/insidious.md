@@ -24,4 +24,4 @@ When supernatural occurrences plague their household, the Lamberts hire a team o
 
   
 
-The film relies heavily on sudden jump scares and visual dread, contrasting sharply with the slow burn horror of [[hereditary]]. 
+The film relies heavily on sudden jump scares and visual dread, contrasting sharply with the slow burn horror of [[hereditary|Hereditary]]. 

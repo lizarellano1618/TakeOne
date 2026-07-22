@@ -3,8 +3,8 @@ title: TakeOne
 ---
 ## Main Categories
 
--[[action/index|action]]
--[[childhood-movies/index|childhood-movies]]
--[[comedy/index|comedy]]
--[[drama/index|drama]]
--[[horror/index|horror]]
+-[[action/index|Action]]
+-[[childhood-movies/index|Childhood Movies]]
+-[[comedy/index|Comedy]]
+-[[drama/index|Drama]]
+-[[horror/index|Horror]]

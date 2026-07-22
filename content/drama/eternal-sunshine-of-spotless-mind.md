@@ -22,4 +22,4 @@ As the erasure process occurs inside Joel’s subconscious mind, he relives his 
 * **Emotional Realism:** Despite the sci-fi premise, the relationship dynamic remains grounded and raw.
 
   
-Much like the harsh realities depicted in [[amores-perros]], the film refuses to give easy answers about human relationships. 
+Much like the harsh realities depicted in [[amores-perros|Amores Perros]], the film refuses to give easy answers about human relationships. 

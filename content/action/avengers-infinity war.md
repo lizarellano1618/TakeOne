@@ -10,7 +10,7 @@ Directed by Anthony and Joe Russo, *Avengers: Infinity Wars* is a definitive sta
 
 ## Action and Drama 
 
-The film perfectly merges high energy comic book action with an emotional touch just as much as [[avengers-endgame]]. Heroes use their superpowers, advanced technology, and willpower to fight back.
+The film perfectly merges high energy comic book action with an emotional touch just as much as [[avengers-endgame|Avengers: Endgame]]. Heroes use their superpowers, advanced technology, and willpower to fight back.
 
 ### Key Characters 
 
@@ -22,4 +22,4 @@ The film perfectly merges high energy comic book action with an emotional touch 
 
 > "There was an idea to bring together a group of people, to see if we could become something more." – Tony Stark 
 
-Together with the sequel, [[avengers-endgame]], the success of *Avengers: Infinity War* proved that the crossover events would dominate the global box office.
+Together with the sequel, [[avengers-endgame|Avengers: Endgame]], the success of *Avengers: Infinity War* proved that the crossover events would dominate the global box office.

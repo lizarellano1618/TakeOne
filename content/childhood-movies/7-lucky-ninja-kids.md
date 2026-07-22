@@ -15,7 +15,7 @@ Before passing away, a victim hands Chilli a massive, valuable diamond. He beg
 
 ### Martial Arts Specialty Style 
 
-Unlike the more grounded sports dynamics found in [[the-mighty-ducks]], these seven children are secret martial arts experts who behave like a live action cartoon. Each child brings a unique fighting style to the table: 
+Unlike the more grounded sports dynamics found in [[the-mighty-ducks|The Mighty Ducks]], these seven children are secret martial arts experts who behave like a live action cartoon. Each child brings a unique fighting style to the table: 
 
 1. Complete traditional black ninja gear and stealth tactics. 
 
@@ -25,4 +25,4 @@ Unlike the more grounded sports dynamics found in [[the-mighty-ducks]], these se
 
 > "Seven lucky kids all for one!" – Group chant
 
-This film serves as an amazing, chaotic predecessor to later Hollywood hits like [[3-ninjas]] and [[the-sandlot]], showcasing how tight knit childhood friends can conquer any obstacle.
+This film serves as an amazing, chaotic predecessor to later Hollywood hits like [[3-ninjas|3 Ninjas]] and [[the-sandlot|The Sandlot]], showcasing how tight knit childhood friends can conquer any obstacle.

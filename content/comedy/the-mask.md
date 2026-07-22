@@ -19,7 +19,7 @@ Directed by Chuck Russell, *The Mask* is a fantasy-comedy blockbuster based on t
 
 * **High Energy Music:** Featuring memorable swing and mambo musical sequences.
 
-* **Dog Sidekick:** Milo, Stanley's clever Jack Russell Terrier, plays a crucial role in rescuing his owner, a dynamic animal partnership similar to the wild creature interactions in [[ace-ventura-when-nature-calls]].
+* **Dog Sidekick:** Milo, Stanley's clever Jack Russell Terrier, plays a crucial role in rescuing his owner, a dynamic animal partnership similar to the wild creature interactions in [[ace-ventura-when-nature-calls|Ace Ventura: When Nature Calls]].
 
   
-The film's blend of high energy, colorful costumes, and larger than life character choices helped define 90s pop culture alongside hit comedies like [[romy-and-micheles-high-school-reunion]].
+The film's blend of high energy, colorful costumes, and larger than life character choices helped define 90s pop culture alongside hit comedies like [[romy-and-micheles-high-school-reunion|Romy and Michele's High School Reunion]].

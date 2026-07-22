@@ -9,6 +9,6 @@ Welcome to the ultimate hub for my favorite modern supernatural horror cinema. T
 
 Select any of the articles below to learn more about these terrifying staples:
 
-* [[hereditary]] - Ari Aster’s masterclass in grief, demonic cults, and generational trauma.
+* [[hereditary|Hereditary]] - Ari Aster’s masterclass in grief, demonic cults, and generational trauma.
 
-* [[insidious]] - James Wan’s terrifying plunge into the supernatural realm of The Further.
+* [[insidious|Insidious]] - James Wan’s terrifying plunge into the supernatural realm of The Further.

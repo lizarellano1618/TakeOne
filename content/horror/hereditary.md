@@ -25,4 +25,4 @@ Following a devastating family tragedy involving her daughter Charlie, Annie see
 > "I never wanted to be your mother!" – Annie Graham
 
 
-Unlike traditional hauntings seen in films like [[insidious]], the horror here stems from inescapable fate. The film explores deep psychological breakdown while utilizing eerie audio.
+Unlike traditional hauntings seen in films like [[insidious|Insidious]], the horror here stems from inescapable fate. The film explores deep psychological breakdown while utilizing eerie audio.

@@ -15,7 +15,7 @@ The boys spend their endless summer days playing baseball in a run-down local lo
 
 ### Creative Rescue Attempts 
 
-To retrieve the irreplaceable baseball, the boys design a series of elaborate contraptions, displaying a level of youthful engineering similar to Kevin's trap-building in [[home-alone]].  
+To retrieve the irreplaceable baseball, the boys design a series of elaborate contraptions, displaying a level of youthful engineering similar to Kevin's trap-building in [[home-alone|Home Alone]].  
 
 * **Attempt 1:** A modified vacuum cleaner retrieval arm. 
 
@@ -25,4 +25,4 @@ To retrieve the irreplaceable baseball, the boys design a series of elaborate co
 
 > "You're killing me Smalls!" – Hamilton Porter
 
-The legendary friendship shared by the team highlights the same unbreakable bond found among the martial artists in [[3-ninjas]]. It remains a definitive masterpiece regarding the joy of being young.
+The legendary friendship shared by the team highlights the same unbreakable bond found among the martial artists in [[3-ninjas|3 Ninjas]]. It remains a definitive masterpiece regarding the joy of being young.

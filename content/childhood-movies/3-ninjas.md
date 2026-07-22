@@ -10,7 +10,7 @@ Directed by Jon Turteltaub, *3 Ninjas* is a definitive staple of 90s martial ar
 
 ## Action and Comedy 
 
-The film perfectly merges high energy martial arts choreography with the lighthearted, slapstick trap setting style popularized by [[home-alone]]. When bumbling criminals attempt to kidnap the brothers, the boys use their stealth, agility, and household items to fight back.  
+The film perfectly merges high energy martial arts choreography with the lighthearted, slapstick trap setting style popularized by [[home-alone|Home Alone]]. When bumbling criminals attempt to kidnap the brothers, the boys use their stealth, agility, and household items to fight back.  
 
 ### Key Characters 
 
@@ -22,4 +22,4 @@ The film perfectly merges high energy martial arts choreography with the lighthe
 
 > "First we eat, then we strike!" – Tum-Tum 
 
-The success of this movie proved that youth action ensembles could dominate the box office. It stands alongside martial arts adventures like [[7-lucky-ninja-kids]] as a testament to the pint-sized hero craze of the era.
+The success of this movie proved that youth action ensembles could dominate the box office. It stands alongside martial arts adventures like [[7-lucky-ninja-kids|7 Lucky Ninja Kids]] as a testament to the pint-sized hero craze of the era.

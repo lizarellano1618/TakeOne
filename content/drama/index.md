@@ -9,8 +9,8 @@ Welcome to the ultimate hub for groundbreaking drama films released during the 2
 
 Select any of the articles below to learn more about these acclaimed masterpieces:
 
-* [[amores-perros]] - Alejandro González Iñárritu’s gritty, interconnected vision of Mexico City.
+* [[amores-perros|Amores Perros]] - Alejandro González Iñárritu’s gritty, interconnected vision of Mexico City.
 
-* [[eternal-sunshine-of-the-spotless-mind]] - Michel Gondry’s surreal exploration of memory and heartbreak.
+* [[eternal-sunshine-of-the-spotless-mind|Eternal Sunshine of the Spotless Mind]] - Michel Gondry’s surreal exploration of memory and heartbreak.
 
-* [[the-hurt-locker]] - Kathryn Bigelow’s tense, character-driven examination of wartime high-stakes risk.
+* [[the-hurt-locker|The Hurt Locker]] - Kathryn Bigelow’s tense, character-driven examination of wartime high-stakes risk.

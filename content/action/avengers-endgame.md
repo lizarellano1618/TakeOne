@@ -22,4 +22,4 @@ The film perfectly merges high stakes time travel with emotional depth.
 
 > "Whatever it takes." – Steve Rogers 
 
-The colossal success of this film set global box office records. Serving as a massive emotional climax, it stands alongside  [[avengers-infinity war]] as a benchmark for modern universe building.
+The colossal success of this film set global box office records. Serving as a massive emotional climax, it stands alongside  [[avengers-infinity war|Avengers: Infinity War]] as a benchmark for modern universe building.

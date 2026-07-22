@@ -25,4 +25,4 @@ The film relies heavily on Jim Carrey’s signature physical performance, absurd
 > "Bumblebee tuna! Bumblebee tuna!" – Ace Ventura
 
 
-The fast-paced, live-action cartoon style of this film mirrors the wild visual effects seen in Jim Carrey's other major 1990s hits, such as [[the-mask]]. Its absurd energy also connects with the chaotic heroics found in youth action films like [[3-ninjas]].
+The fast-paced, live-action cartoon style of this film mirrors the wild visual effects seen in Jim Carrey's other major 1990s hits, such as [[the-mask|The Mask]]. Its absurd energy also connects with the chaotic heroics found in youth action films like [[3-ninjas|3 Ninjas]].

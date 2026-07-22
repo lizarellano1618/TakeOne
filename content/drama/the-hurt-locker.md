@@ -25,4 +25,4 @@ The film centers on Staff Sergeant William James (Jeremy Renner), a reckless yet
 > "The rush of battle is often a potent and lethal addiction, for war is a drug." – Opening Title Quote
 
   
-The film skips traditional political commentary to focus entirely on sensory experience and character study. Its relentless focus on internal pressure mirrors the character struggles in [[eternal-sunshine-of-spotless-mind]] and the chaotic urban survival of [[amores-perros]].
+The film skips traditional political commentary to focus entirely on sensory experience and character study. Its relentless focus on internal pressure mirrors the character struggles in [[eternal-sunshine-of-spotless-mind|Eternal Sunshine of the Spotless Mind]] and the chaotic urban survival of [[amores-perros|Amores Perros]].

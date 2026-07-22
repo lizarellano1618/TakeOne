@@ -22,4 +22,4 @@ The heart of the movie lies in the unbreakable bond between Romy and Michele. De
 3.**Custom Outfits:** Bright, colorful 90s fashion designs crafted by the characters themselves.
 
 
-The film's bright color palette and confident sense of humor align with the bold visual style seen in 90s classics like [[the-mask]]. At the same time, its focus on tight knit friendships echoes the strong group dynamics found in neighborhood favorites like [[the-sandlot]] and team sports hits like [[the-mighty-ducks]].
+The film's bright color palette and confident sense of humor align with the bold visual style seen in 90s classics like [[the-mask|The Mask]]. At the same time, its focus on tight knit friendships echoes the strong group dynamics found in neighborhood favorites like [[the-sandlot|The Sandlot]] and team sports hits like [[the-mighty-ducks|The Mighty Ducks]].

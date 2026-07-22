@@ -25,4 +25,4 @@ The film explores how a single moment of violence links people from completely d
 > "If you want to make God laugh, tell Him your plans." – El Chivo
 
 
-The non-linear storytelling and intense emotional realism found here set a new standard for early 2000s dramas, establishing narrative techniques that would echo in films like [[eternal-sunshine-of-spotless-mind]] and influence character-driven tension like that in [[the-hurt-locker]]. 
+The non-linear storytelling and intense emotional realism found here set a new standard for early 2000s dramas, establishing narrative techniques that would echo in films like [[eternal-sunshine-of-spotless-mind|Eternal Sunshine of the Spotless Mind]] and influence character-driven tension like that in [[the-hurt-locker|The Hurt Locker]]. 

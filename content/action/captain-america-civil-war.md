@@ -20,4 +20,4 @@ The film perfectly merges hero vs. hero action., deep emotional betrayal, and po
 
 > "This job, we try to save as many people as we can. Sometimes that doesn't mean everybody, but you don't give up." – Steve Rogers 
 
-The great success of this movie proved that character driven conflict and deep emotional fractures could carry a blockbuster narrative. It stands alongside  [[avengers-infinity war]]  and [[avengers-endgame]].
+The great success of this movie proved that character driven conflict and deep emotional fractures could carry a blockbuster narrative. It stands alongside  [[avengers-infinity war|Avengers: Infinity War]]  and [[avengers-endgame|Avengers: Endgame]].

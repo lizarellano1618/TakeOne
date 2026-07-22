@@ -9,11 +9,11 @@ Welcome to the ultimate hub for iconic 1990s comedy. This collection explores ic
 
 Select any of the articles below to learn more about these iconic 90s favorites: 
 
-* [[ace-ventura-when-nature-calls]] - Jim Carrey's wild jungle detective adventure.
+* [[ace-ventura-when-nature-calls|Ace Ventura: When Nature Calls]] - Jim Carrey's wild jungle detective adventure.
 
-* [[the-mask]] - The green faced, cartoonish superhero comedy hit.
+* [[the-mask|The Mask]] - The green faced, cartoonish superhero comedy hit.
 
-* [[romy-and-micheles-high-school-reunion]] - The ultimate blonde buddy comedy classic.
+* [[romy-and-micheles-high-school-reunion|Romy and Michele's High School Reunion]] - The ultimate blonde buddy comedy classic.
 ## Related Categories
 Some figures played big roles in the [[action/index|action]] category.
 
