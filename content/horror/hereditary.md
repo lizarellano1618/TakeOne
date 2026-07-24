@@ -1,7 +1,7 @@
 ---
 title: hereditary
 ---
-# Hereditary ()
+# Hereditary (2018)
 
 ![Hereditary Movie Poster](hereditary.png)
 
