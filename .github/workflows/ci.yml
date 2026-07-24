@@ -20,8 +20,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: 'true'
-          fetch-depth: 0 # Fetch all history
+          submodules: 'false'  # CHANGED: disabled submodules
+          fetch-depth: 0
+      - name: Clone quartz repository  # NEW STEP
+        run: |
+          rm -rf quartz
+          git clone https://github.com/jackyzha0/quartz.git quartz
       - name: Apply configurations
         run: |
           cp quartz.config.ts quartz.layout.ts quartz
@@ -43,15 +47,13 @@ jobs:
         with:
           path: quartz/public
 
-  # Deployment job
   deploy:
     needs: build
     if: ${{ github.ref == 'refs/heads/main'}}
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
-      pages: write # to deploy to Pages
-      id-token: write # to verify the deployment originates from an appropriate source
-      actions: read     # to download an artifact uploaded by `actions/upload-pages-artifact@v3`
+      pages: write
+      id-token: write
+      actions: read
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
