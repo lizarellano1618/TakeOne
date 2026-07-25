@@ -1,10 +1,11 @@
 ---
-title: TakeOne2
+title: TakeOne
 ---
+
 ## Main Categories
 
--[[action/index|action]]
--[[childhood-movies/index|childhood-movies]]
--[[comedy/index|comedy]]
--[[drama/index|drama]]
--[[horror/index|horror]]
+- [Action](action/index)
+- [Childhood Movies](childhood-movies/index)
+- [Comedy](comedy/index)
+- [Drama](drama/index)
+- [Horror](horror/index)
